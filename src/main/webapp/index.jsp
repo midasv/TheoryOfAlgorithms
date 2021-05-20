@@ -9,13 +9,15 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Laboratorni raboti</title>
     </head>
     <body>
-         <h1>Landing page</h1>
+         <h1>Laboratorni roboti Ivan Borisyuk</h1>
             <div>
                 <a  href="lab1.jsp">Laba 1</a>
-              
+              <a  href="lab2.jsp">Laba 2</a>
+              <a  href="lab3.jsp">Laba 3</a>
+            <a  href="lab4.jsp">Laba 4</a>
             </div>
     </body>
 </html>
