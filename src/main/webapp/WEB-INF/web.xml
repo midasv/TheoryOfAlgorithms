@@ -4,9 +4,17 @@
         <servlet-name>lab2Servlet</servlet-name>
         <servlet-class>IP11lab2.lab2Servlet</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>Lab5Servlet</servlet-name>
+        <servlet-class>TheoryOfAlgorithms.Borisyuk.Lab5.Lab5Servlet</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>lab2Servlet</servlet-name>
         <url-pattern>/lab2</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Lab5Servlet</servlet-name>
+        <url-pattern>/lab5</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
