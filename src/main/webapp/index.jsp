@@ -21,6 +21,7 @@
             <a  href="lab5.jsp">Laba 5</a>
             <a  href="lab6_7.jsp">Laba 6</a>
             <a  href="lab8.jsp">Laba 8</a>
+            <a  href="exam.jsp">Exam</a>
             </div>
     </body>
 </html>

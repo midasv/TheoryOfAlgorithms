@@ -10,9 +10,10 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Laboratorna 4</title>
     </head>
     <body>
+       
          <%! TextProcessor textProcessor = new TextProcessor("The World Health Organization"
                  + " has estimated that as of 2016, there were 380 million people with alcoholism"
                  + " worldwide (5.1% of the population over 15 years of age)."
