@@ -6,10 +6,10 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Laboratorna 8</title>
     </head>
     <body>
-        <a href="index.jsp">Back to landing page</a>
+      
         <h2 class="text-left"><b>Постановка задачі:</b> відсортувати масив цілих чисел</h2>
         <p><b>Вихідні дані:</b><br>Кількість елементів: 20000</p>
         <%! Algorithms algorithms = new Algorithms(20000);%>

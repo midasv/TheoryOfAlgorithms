@@ -14,6 +14,7 @@
         <title>JSP Page</title>
     </head>
     <body>
+        
            <form action="./lab2" method="post" class="form-inline">
                     <label for="x">Enter x</label>
                     <div class="input-group">

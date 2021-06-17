@@ -7,10 +7,10 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Lab 6-7</title>
+        <title>Laboratorna 6-7</title>
     </head>
     <body>
-        <a href="index.jsp">Back to landing page</a>
+       
         <%! Lab6_7_1 lab6_7_1 = new Lab6_7_1(585625);%>
         <p>Number 585625<br> Amount of 5: <%= lab6_7_1.Count(0, 0, '5')%></p>
         <%! BinaryTree tree = new BinaryTree();%>

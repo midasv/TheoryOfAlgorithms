@@ -11,9 +11,10 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Laboratorna 3</title>
     </head>
     <body>
+      
         <%! calculator calculator = new calculator();%>
                 <%calculator.InitArray(20);%>
                 <p>Array: <%= calculator.DisplayArray()%></p>

@@ -6,10 +6,10 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Lab 5</title>
+        <title>Laboratorna 5</title>
     </head>
     <body>
-        <a href="index.jsp">Back to landing page</a>
+    
         <%! Lab5_1 lab5_1 = new Lab5_1("Alcoholism is, broadly, any drinking of"
             + " alcohol that results in significant mental or physical health problems."
             + " Alcoholism is not a recognized diagnostic entity. Predominant diagnostic"

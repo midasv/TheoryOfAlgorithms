@@ -14,6 +14,7 @@
         <title>JSP Page</title>
     </head>
     <body>
+       
           <%! Lab1 lab1 = new Lab1();%>
                 <p>Initial value: <%= lab1.toString()%></p>
                 <%lab1.MoreScore(10);%>
